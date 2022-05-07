@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Respostas
+=======
+Respostas
+>>>>>>> 28f0c0a5a9a16cee8e76db799d7d9b087056ebae
 1) Qual nivel de maturidade corresponde ao CRUD (Create, Read, Update, Delete)?
 R: Corresponde ao nivel 2 de maturidade.
 
@@ -17,4 +21,8 @@ R:O método de requisição HTTP PATCH aplica modificações parciais a um recur
 
 
 Fontes:https://www.infoq.com/br/news/2009/08/CRUDREST/
+<<<<<<< HEAD
 https://www.youtube.com/watch?v=P92SBaN42mQ
+=======
+https://www.youtube.com/watch?v=P92SBaN42mQ
+>>>>>>> 28f0c0a5a9a16cee8e76db799d7d9b087056ebae
